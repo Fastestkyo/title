@@ -1,4 +1,6 @@
 ---
+title:Home
 ---
 
-# tonic-starter
+# Dark
+**Dark** is a dark theme for jekyll
