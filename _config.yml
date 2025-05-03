@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Dark Theme
+description: "Very sigma dark theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
